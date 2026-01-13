@@ -9,6 +9,7 @@ permissions = ""
 display_version = "Git"
 
 # Hardware Information
+systemid = "dcss"
 
 # Libretro Features
 supports_no_game = "false"

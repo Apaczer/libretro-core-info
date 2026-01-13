@@ -10,6 +10,7 @@ display_version = "v1"
 
 # Hardware Information
 systemname = "Lutro"
+systemid = "lutro"
 
 # Libretro Features
 supports_no_game = "false"

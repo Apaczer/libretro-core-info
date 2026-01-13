@@ -8,6 +8,7 @@ license = "GPLv3"
 permissions = ""
 display_version = "v92.5.336"
 systemname = "Physics Toy"
+systemid = "physics_toy"
 
 # Hardware Information
 
