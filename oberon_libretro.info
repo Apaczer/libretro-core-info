@@ -8,6 +8,7 @@ license = "ISC"
 
 # Hardware Information
 systemname = "Oberon RISC machine"
+systemid = "oberon"
 
 # Libretro Features
 supports_no_game = "false"

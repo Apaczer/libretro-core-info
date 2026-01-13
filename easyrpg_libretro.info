@@ -10,6 +10,7 @@ display_version = "0.8.1.0"
 
 # Hardware Information
 systemname = "RPG Maker 2000/2003 Game Engine"
+systemid = "rpg_maker"
 
 # Libretro Features
 database = "RPG Maker"

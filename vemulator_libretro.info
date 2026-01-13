@@ -11,6 +11,7 @@ display_version = "0.1"
 manufacturer = "Sega"
 categories = "Game"
 systemname = "SEGA Visual Memory Unit"
+systemid = "vmu"
 
 # Libretro Features
 supports_no_game = "false"

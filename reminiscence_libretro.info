@@ -10,6 +10,7 @@ display_version = "0.3.6"
 # Hardware Information
 categories = "Game"
 systemname = "Flashback Game Engine"
+systemid = "flashback"
 
 # Libretro Features
 supports_no_game = "false"
