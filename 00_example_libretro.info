@@ -36,6 +36,10 @@
 # If blank or not used, a standard core platform will be used (optional):
 # systemid = "nes"
 
+# Directory used for storing content to be loaded, usually the same as systemid (if not specified).
+# Should be specified if e.g. "supports_no_game" equals false OR usually if "supported_extensions" is specified
+# gamedir = "nes"
+
 # The number of mandatory/optional firmware files the core needs:
 # firmware_count = 7
 
