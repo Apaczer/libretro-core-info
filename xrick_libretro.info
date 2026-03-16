@@ -1,7 +1,7 @@
 # Software Information
 display_name = "Rick Dangerous (XRick)"
 authors = ""
-supported_extensions = "zip"
+supported_extensions = ""
 corename = "XRick"
 categories = "Game"
 license = "GPLv3"

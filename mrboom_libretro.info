@@ -4,7 +4,7 @@ authors = "Remdy"
 corename = "Mr.Boom"
 categories = "Game"
 license = "MIT"
-supported_extensions = "desktop"
+supported_extensions = ""
 permissions = ""
 display_version = "3.1"
 

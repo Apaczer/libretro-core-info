@@ -1,7 +1,7 @@
 # Software Information
 display_name = "Cave Story (NXEngine)"
 authors = "Caitlin Shaw"
-supported_extensions = "exe"
+supported_extensions = ""
 corename = "NXEngine"
 categories = "Game"
 license = "GPLv3"

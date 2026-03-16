@@ -1,7 +1,7 @@
 # Software Information
 display_name = "Dinothawr"
 authors = "Themaister|Agnes Heyer"
-supported_extensions = "game"
+supported_extensions = ""
 corename = "Dinothawr"
 categories = "Game"
 license = "Non-commercial"

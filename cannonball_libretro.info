@@ -1,7 +1,7 @@
 # Software Information
 display_name = "Cannonball"
 authors = "Chris White"
-supported_extensions = "game|88"
+supported_extensions = ""
 corename = "Cannonball"
 categories = "Game engine"
 license = "Non-commercial"
