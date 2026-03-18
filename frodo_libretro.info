@@ -19,4 +19,4 @@ database = "Commodore - 64"
 savestate = "false"
 is_experimental = "true"
 
-gamedir = "commodore_64"
+gamedir = "c64"

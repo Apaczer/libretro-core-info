@@ -39,4 +39,4 @@ notes = "(!) tos.rom (md5): 036c5ae4f885cbf62c9bed651c6c58a8|(!) tos.rom (md5): 
 
 description = "A port of the DCaSTaway emulator to libretro. This core supports Atari's 16-/32-bit ST hardware and is aimed at lower-spec devices."
 
-gamedir = "atari_st"
+gamedir = "st"

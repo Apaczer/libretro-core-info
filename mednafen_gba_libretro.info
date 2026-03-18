@@ -27,4 +27,4 @@ is_experimental = true
 
 description = "An older fork of Mednafen's Game Boy Advance core, which is itself a fork of the Visual Boy Advance emulator. This core is not really one that anyone should use over the alternatives unless they have a specific reason to. It is only included for completionist's sake."
 
-gamedir = "game_boy_advance"
+gamedir = "gba"

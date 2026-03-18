@@ -21,4 +21,4 @@ savestate_features = "deterministic"
 
 description = "A port of Mednafen's WonderSwan Color emulation core to libretro."
 
-gamedir = "wonderswan"
+gamedir = "wswan"

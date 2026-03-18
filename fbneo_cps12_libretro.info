@@ -39,4 +39,4 @@ notes = "(!) Homepage : https://neo-source.com/"
 
 description = "Based on the latest up-to-date source, 'FinalBurn Neo' is compatible with FinalBurn Neo latest ROM sets. This core variant only supports CPS-1 & CPS-2 games. It exists solely for use with platforms that do not have the capability to use the standard FBNeo core."
 
-gamedir = "fb_alpha"
+gamedir = "fba"

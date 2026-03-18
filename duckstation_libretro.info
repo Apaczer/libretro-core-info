@@ -39,4 +39,4 @@ notes = "(!) scph5500.bin (md5): 8dd7d5296a650fac7319bce665a6a53c|(!) scph5501.b
 
 description = "DuckStation is a PlayStation 1 (aka PSX) emulator focusing on playability, speed, graphical enhancements, and long-term maintainability. A 'BIOS' ROM image is required to start the emulator and to play games. Features include hardware rendering (OpenGL, Vulkan and D3D11), upscaling, 24-bit color, and a dynamic recompiler (x86-64, ARMv7, AArch64)."
 
-gamedir = "playstation"
+gamedir = "ps1"

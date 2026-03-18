@@ -26,4 +26,4 @@ notes = "(!) scph5500.bin (md5): 8dd7d5296a650fac7319bce665a6a53c|(!) scph5501.b
 
 description = "A never-completed fork of the PCSX-ReARMed codebase intended to target more general PC hardware. This core should not be used for playing games and exists only for research/historical purposes."
 
-gamedir = "playstation"
+gamedir = "ps1"

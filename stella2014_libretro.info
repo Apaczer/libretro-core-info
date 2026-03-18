@@ -30,4 +30,4 @@ disk_control = "false"
 
 description = "A port of Stella, the multi-platform Atari 2600 VCS emulator, to libretro. This core was forked off from the main Stella codebase circa 2014 and, as such, is a snapshot of the features, compatibility and performance from that time. As a result, it is missing many of the accuracy improvements of the up-to-date core and should only be used in cases where the host device cannot run the up-to-date core at full speed."
 
-gamedir = "atari_2600"
+gamedir = "2600"

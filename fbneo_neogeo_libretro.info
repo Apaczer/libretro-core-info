@@ -45,4 +45,4 @@ notes = "(!) The BIOS files can also be inside the ROM directory or the root of 
 
 description = "Based on the latest up-to-date source, 'FinalBurn Neo' is compatible with FinalBurn Neo latest ROM sets. This core variant only supports Neo-Geo games. It exists solely for use with platforms that do not have the capability to use the standard FBNeo core."
 
-gamedir = "fb_alpha"
+gamedir = "fba"

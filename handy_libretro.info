@@ -38,4 +38,4 @@ notes = "(!) lynxboot.img (md5): fcd403db69f54290b51035d82f835e7b"
 
 description = "A port of the venerable Handy Atari Lynx emulator to libretro. This core provides a solid emulation experience for this console, with support for video rotation, etc. but the hardware's unusual screen refresh rate of 75 Hz means scrolling for this core will always be a bit choppy on more common 60 Hz displays. This core is a good first choice for playing Lynx games via libretro frontends."
 
-gamedir = "atari_lynx"
+gamedir = "lynx"

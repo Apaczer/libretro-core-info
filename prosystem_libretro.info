@@ -38,4 +38,4 @@ notes = "(!) 7800 BIOS (U).rom (md5): 0763f1ffb006ddbe32e52d497ee848ae"
 
 description = "A port of the ProSystem Atari 7800 emulator to libretro."
 
-gamedir = "atari_7800"
+gamedir = "7800"
