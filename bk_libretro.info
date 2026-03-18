@@ -63,3 +63,5 @@ notes = "(!) bk/B11M_BOS.ROM (md5): fe4627d1e3a1535874085050733263e7|(!) bk/B11M
 notes = "(!) Homepage: http://www.mailcom.com/bk0010/index_en.shtml"
 
 description = "A port of the PDP11 emulator to libretro. This core emulates the Soviet Electronica BK computers series, including the BK-0010, BK-0010.01 and BK-0011(M), as well as the Terak 8510/a, which is a 1976 American PDP-11/03 platform that the Electronica BK series were designed after. The BK series computers were the first mass-produced, affordable personal computers in Russia in the 1980s and they had a tremendous effect on the development of the Russian-speaking software community, similar to the C64, ZX Spectrum and Atari 2600 communities elsewhere in the world. These computers will accept console commands in English but respond mostly in Russian, so this core is mostly of use to Russian-speaking users."
+
+gamedir = "bk"

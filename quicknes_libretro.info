@@ -30,3 +30,5 @@ disk_control = "false"
 is_experimental = "false"
 
 description = "QuickNES is the fastest NES emulator available via libretro, though this speed comes at the cost of some accuracy. This core should be used only when performance is of the utmost concern and even FCEUmm is too demanding."
+
+gamedir = "nes"

@@ -45,3 +45,5 @@ disk_control = "false"
 is_experimental = "true"
 
 description = "Galaksija (Galaxy) was a low-cost home computer released in 1983 in the former Yugoslav countries as a build-it-yourself kit. The design, which was based on the Zilog Z80A CPU, was later mass produced for distribution to schools."
+
+gamedir = "galaksija"

@@ -19,3 +19,5 @@ database = "Commodore - 64"
 is_experimental = "true"
 
 description = "An older port of the VICE Commodore 64 emulator to libretro. This port has been completely superseded by the newer VICE ports and only remains for historical/reference value. It should not be used by end-users for any reason."
+
+gamedir = "commodore_64"

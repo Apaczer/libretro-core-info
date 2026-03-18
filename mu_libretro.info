@@ -35,3 +35,5 @@ firmware4_path = "bootloader-dbvz.rom"
 firmware4_opt = "true"
 
 description = "An emulator for the Palm m515 OS ported to libretro. It is intended to avoid hacks like those used by the POSE emulator, where API calls are intercepted and replaced with those that don't use the actual hardware."
+
+gamedir = "palmos"

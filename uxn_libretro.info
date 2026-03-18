@@ -20,3 +20,5 @@ needs_fullpath = "false"
 disk_control = "false"
 
 description = "Varvara is a computer system for Uxn.  This libretro core is based on zxun."
+
+gamedir = "uxn"

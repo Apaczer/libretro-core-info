@@ -31,3 +31,5 @@ firmware0_path = "freej2me-lr.jar"
 firmware0_opt = "false"
 
 description = "A port of FreeJ2ME to libretro. This core emulates Java ME applications and games for Java-based mobile phones."
+
+gamedir = "J2ME"

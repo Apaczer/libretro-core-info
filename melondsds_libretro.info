@@ -55,3 +55,5 @@ firmware6_desc = "dsi_nand.bin (DSi NAND)"
 firmware6_path = "dsi_nand.bin"
 firmware6_opt = "true"
 notes = "(!) bios7.bin (md5): df692a80a5b1bc90728bc3dfc76cd948|(!) bios9.bin (md5): a392174eb3e572fed6447e956bde4b25"
+
+gamedir = "nds"

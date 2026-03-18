@@ -25,3 +25,5 @@ firmware2_opt = "true"
 notes = "(!) scph5500.bin (md5): 8dd7d5296a650fac7319bce665a6a53c|(!) scph5501.bin (md5): 490f666e1afb15b7362b406ed1cea246|(!) scph5502.bin (md5): 32736f17079d0b2b7024407c39bd3050"
 
 description = "A never-completed fork of the PCSX-ReARMed codebase intended to target more general PC hardware. This core should not be used for playing games and exists only for research/historical purposes."
+
+gamedir = "playstation"

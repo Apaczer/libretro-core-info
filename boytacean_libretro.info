@@ -26,3 +26,5 @@ core_options = "true"
 # General Description
 database = "Nintendo - Game Boy|Nintendo - Game Boy Color"
 description = "A Game Boy emulator that is written in Rust."
+
+gamedir = "game_boy"

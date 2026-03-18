@@ -29,3 +29,5 @@ hw_render = "false"
 needs_fullpath = "false"
 disk_control = "false"
 is_experimental = "true"
+
+gamedir = "pico8"

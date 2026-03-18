@@ -30,3 +30,5 @@ disk_control = "false"
 is_experimental = "false"
 
 description = "A port of the Powdertoy physics sandbox/simulation engine to libretro. The simulation includes air pressure and velocity, heat, gravity and countless interactions among different virtual substances, which can be used to construct complex machines, guns, bombs, realistic terrain and more."
+
+gamedir = "physics_toy"

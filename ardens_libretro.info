@@ -27,3 +27,5 @@ is_experimental = "false"
 firmware_count = 0
 
 description = "Ardens is a simulator for the Arduboy FX that is designed especially for profiling and debugging Arduboy games."
+
+gamedir = "arduboy"

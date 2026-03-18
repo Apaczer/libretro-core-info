@@ -33,3 +33,5 @@ firmware_count = 0
 notes = "(!) Homepage: https://exoticorn.github.io/microw8/"
 
 description = "MicroW8 is a WebAssembly based fantasy console usable for size-coding or larger games."
+
+gamedir = "uw8"

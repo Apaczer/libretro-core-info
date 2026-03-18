@@ -21,3 +21,5 @@ disk_control = "false"
 is_experimental = "false"
 
 description = "BBK Longman A4980 emulator for libretro. This was a Chinese electronic dictionary, which could also run some games."
+
+gamedir = "gam4980"

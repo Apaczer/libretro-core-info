@@ -18,3 +18,5 @@ supports_no_game = "false"
 database = "Sega - Game Gear|Sega - Master System - Mark III|Sega - SG-1000"
 
 description = "A port of the highly accurate Sega 8-bit console emulator Gearsystem to libretro. This core supports Sega's Mark III, Master System, Game Gear and Game 1000 (SG-1000) consoles, along with the Othello Multivision. It faithfully emulates all of the hardware, including undocumented features of the Z80 CPU. This core is an excellent choice for emulating these consoles on a modern system."
+
+gamedir = "master_system"

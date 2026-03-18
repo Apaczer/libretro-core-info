@@ -30,3 +30,5 @@ disk_control = "false"
 database = "Nintendo - Nintendo Entertainment System"
 
 description = "Port of aiju's NES emulator from 9front to libretro"
+
+gamedir = "nes"

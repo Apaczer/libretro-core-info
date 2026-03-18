@@ -35,3 +35,5 @@ disk_control = "false"
 is_experimental = "false"
 
 description = "A highly-portable emulator that aims to be as fast as possible without sacrificing accuracy."
+
+gamedir = "mega_drive"

@@ -29,3 +29,5 @@ firmware1_path = "BIOS.col"
 firmware1_opt = "true"
 
 description = "A cousin to the fast, accurate Genesis Plus GX emulator, this core specifically emulates the Sega Master System console hardware without including the Sega consoles covered by Genesis Plus GX. This can be useful for keeping different settings for SMS games, but otherwise, most users are better-served by using the combined Genesis Plus GX core."
+
+gamedir = "master_system"

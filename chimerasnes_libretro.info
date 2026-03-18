@@ -30,3 +30,5 @@ needs_fullpath = "false"
 disk_control = "false"
 
 description = "ChimeraSNES is a fork of the classic and popular SNES emulator Snes9x from circa 2005, much like snes9x2005. It has sound quality close to that of snes9x2005+ but is about as fast as snes9x2005 and comes preconfigured for slower systems."
+
+gamedir = "super_nes"

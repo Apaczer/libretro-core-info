@@ -37,3 +37,4 @@ firmware0_md5 = "fcd403db69f54290b51035d82f835e7b"
 firmware0_opt = "true"
 
 description = "This core's primary goal is to get closer to the Lynx hardware and provide a better emulation experience than the current Handy ports."
+gamedir = "atari_lynx"

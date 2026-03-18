@@ -19,3 +19,5 @@ is_experimental = "true"
 database = "Nintendo - Game Boy Advance"
 
 description = "A very early, incomplete Game Boy Advance emulator, ported to libretro. This emulator was never completed and the libretro core should not be used by anyone for any reason. It remains only for historical and research purposes."
+
+gamedir = "game_boy_advance"

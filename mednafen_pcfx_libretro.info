@@ -25,3 +25,5 @@ firmware0_opt = "false"
 notes = "(!) pcfx.rom (md5): 08e36edbea28a017f79f8d4f7ff9b6d7"
 
 description = "A fork of Mednafen's PC-FX emulation core, ported to libretro."
+
+gamedir = "pc_fx"

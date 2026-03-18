@@ -30,3 +30,5 @@ disk_control = "true"
 is_experimental = "false"
 
 description = "Apple II - AppleWin emulator."
+
+gamedir = "apple_ii"

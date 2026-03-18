@@ -22,3 +22,5 @@ disk_control = "false"
 is_experimental = "true"
 
 description = "A port of the RVVM (RISC-V Virtual Machine) to libretro."
+
+gamedir = "rvvm"

@@ -21,3 +21,5 @@ needs_fullpath = "true"
 disk_control = "false"
 
 description = "A port of the ONScripter visual novel games engine to libretro."
+
+gamedir = "onscripter"

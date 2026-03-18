@@ -29,3 +29,5 @@ needs_fullpath = "true"
 disk_control = "false"
 
 description = "M2000 is an emulator for the Philips P2000T home computer."
+
+gamedir = "p2000t"

@@ -25,3 +25,5 @@ disk_control = "false"
 firmware_count = 0
 
 description = "An adaptation of SameBoy to play Mega Duck games."
+
+gamedir = "mega_duck"

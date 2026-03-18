@@ -25,3 +25,5 @@ is_experimental = "true"
 needs_kbd_mouse_focus = "true"
 
 description = "A port of the QEMU emulator to libretro."
+
+gamedir = "qemu"

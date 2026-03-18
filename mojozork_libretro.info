@@ -25,3 +25,5 @@ database = "Infocom - Z-Machine"
 notes = "MojoZork plays Infocom Z-Machine games up to version 3, which is most, but not all, of Infocom's catalog."
 
 description = "A Z-Machine emulator for playing text-based interactive fiction."
+
+gamedir = "zmachine"

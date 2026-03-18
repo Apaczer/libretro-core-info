@@ -19,3 +19,5 @@ database = "Quake III"
 savestate = "false"
 
 description = "A port of the VitaQuake 3 source port of iD's ioquake3 engine to libretro. This core loads games in the *.pk3 format."
+
+gamedir = "quake_3"

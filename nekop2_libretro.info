@@ -30,3 +30,5 @@ disk_control = "true"
 is_experimental = "false"
 
 description = "An emulator for NEC's PC-9801 (aka PC-98) personal computer platform, ported to libretro. This core has been completely superseded by the Neko Project II Kai core."
+
+gamedir = "pc_98"

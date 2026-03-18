@@ -27,3 +27,5 @@ disk_control = "false"
 is_experimental = "false"
 
 description = "A libretro core for playing back Redbook-formatted audio, such as commercial audio CDs."
+
+gamedir = "redbook"

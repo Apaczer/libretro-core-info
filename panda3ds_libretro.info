@@ -32,3 +32,5 @@ disk_control = "false"
 is_experimental = "true"
 
 description = "Panda3DS is an HLE, red-panda-themed Nintendo 3DS emulator. Panda3DS is still in the early stages of development."
+
+gamedir = "3ds"

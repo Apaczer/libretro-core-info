@@ -31,3 +31,5 @@ disk_control = "false"
 is_experimental = "true"
 
 description = "A port of the Daphne Laserdisc emulator to libretro. This core plays classic full-motion video games as they appeared in arcades."
+
+gamedir = "daphne"

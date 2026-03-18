@@ -39,3 +39,5 @@ firmware1_path = "neogeo.zip"
 firmware1_opt = "false"
 
 description = "Geolith is a highly accurate emulator for the Neo Geo AES and MVS. Geolith uses the .NEO ROM format developed for the NeoSD, and aims to deliver a more typical home console emulator experience, though arcade mode is also fully supported."
+
+gamedir = "neogeo"

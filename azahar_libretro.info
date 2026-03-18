@@ -32,3 +32,5 @@ disk_control = "false"
 is_experimental = "false"
 
 description = "A port of the Azahar 3DS emulator to libretro. Azahar is based on Citra, started by merging several prominent Citra forks after Citra was taken down. The core requires decrypted ROMs to function, and some games require Mii data to be dumped from your own 3DS console."
+
+gamedir = "3ds"

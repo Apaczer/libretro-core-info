@@ -38,3 +38,5 @@ firmware0_opt = "true"
 notes = "Optional alternative BIOS file|Vircon32 Standard BIOS is embedded in the core"
 
 description = "Vircon32 is a virtual game console, inspired by classic 16 & 32 bit systems as well as the arcade era."
+
+gamedir = "vircon32"
