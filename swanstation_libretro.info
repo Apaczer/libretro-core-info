@@ -45,4 +45,4 @@ notes = "(!) psxonpsp660.bin (md5): c53ca5908936d412331790f4426c6c33|(!) scph550
 
 description = "SwanStation is a fork of the Duckstation PlayStation 1 (aka PSX) emulator focusing on playability, speed, and long-term maintainability ported to libretro. A 'BIOS' ROM image is required to start the emulator and to play games. SwanStation includes hardware rendering (OpenGL, Vulkan and D3D11), upscaling, 24-bit color, and a dynamic recompiler (x86-64, ARMv7, AArch64)."
 
-gamedir = "playstation"
+gamedir = "ps1"

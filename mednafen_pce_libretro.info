@@ -37,4 +37,4 @@ notes = "(!) syscard3.pce (md5): 38179df8f4ac870017db21ebcbf53114|[i] For cue fi
 
 description = "A PC Engine (PCE) core forked from Mednafen's PCE-Accurate emulator, this core is a bit slower than the Fast core, but it is also more accurate, with support for a few extra games that are broken on the Fast core. In addition to PCE, PCE-CD, TurboGrafx 16 and TurboGrafx 16 CD, this core also differs from the Fast version in its support for the SuperGrafx console."
 
-gamedir = "pc_engine"
+gamedir = "pce"

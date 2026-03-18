@@ -29,4 +29,4 @@ notes = "(!) dmg_boot.bin (md5): 32fbbd84168d3482956eb3c5051637f5|(!) cgb_boot.b
 
 description = "A port of the highly accurate Game Boy emulator, SameBoy, to libretro. This core has the highest accuracy of any Game Boy emulator and also supports a variety of fun features and improvements. While its requirements are higher than most other Game Boy cores, it is a good first choice for devices strong enough to run it full speed. Lower-power devices will be better-served by Gambatte-libretro, which still has very high accuracy/compatibility and runs blisteringly fast."
 
-gamedir = "game_boy"
+gamedir = "gb"

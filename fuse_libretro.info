@@ -47,4 +47,4 @@ notes = "[1] Amstrad have kindly given their permission for the redistribution|[
 
 description = "A port of the Fuse Unix Spectrum Emulator to libretro, this core supports many Spectrum, Timex, Pentagon and Scorpion variants. The Pentagon and Scorpion machines need BIOS images placed inside a 'fuse' subdirectory inside the frontend's 'system' directory. This core is a good first choice for playing Spectrum games, with 81 (EightyOne) covering the Sinclair ZX 81 games."
 
-gamedir = "zx_spectrum"
+gamedir = "z80"

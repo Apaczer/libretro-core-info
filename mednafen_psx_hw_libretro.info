@@ -50,4 +50,4 @@ notes = "(!) scph5500.bin (md5): 8dd7d5296a650fac7319bce665a6a53c|(!) scph5501.b
 
 description = "A significantly modified fork of Mednafen's Playstation emulator, this core differs from the non-HW version by providing GPU-accelerated renderers for OpenGL and Vulkan. These renderers provide increased internal resolution for smooth, high-res polygons with minimal performance impact, texture filtering and other cosmetic changes. Both varieties of Beetle-PSX are more accurate than PCSX-ReARMed but also significantly slower, so they are generally a better choice for higher-specced devices that can benefit from the additional features and accuracy while maintaining full speed. The Beetle-PSX cores are also very particular about requiring BIOS images, so make sure you have the correct BIOS files available and make sure they are named exactly as the core expects."
 
-gamedir = "playstation"
+gamedir = "ps1"

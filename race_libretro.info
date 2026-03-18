@@ -31,4 +31,4 @@ is_experimental = "false"
 
 description = "A libretro core of the RACE emulator for NeoGeo Pocket Color, which was modified by theelf to run on the Playstation Portable. As such, it is very performance focused and is a good option for devices that cannot run the Beetle-NGP core at full speed."
 
-gamedir = "neo_geo_pocket"
+gamedir = "ngp"

@@ -32,4 +32,4 @@ is_experimental = "false"
 
 description = "A port of Mednafen's Supafaust SNES emulator to libretro. This core is designed to be very fast and reasonably accurate. It is fastest on ARM hardware but should be quite speedy on typical x86 machines, as well. It is a very complete port, with support for many libretro features, including frontend features that depend on stable, deterministic savestates."
 
-gamedir = "super_nes"
+gamedir = "snes"

@@ -85,4 +85,4 @@ firmware20_opt = "true"
 
 description = "Mesen-S is a high-accuracy SNES/GB/GBC core with full SGB and achievement support. While quite accurate, this core is also pretty fast, making it a good, general-purpose SNES core. Along with bsnes/hd-beta and up-to-date Snes9x, this core is a great first choice for most users."
 
-gamedir = "super_nes"
+gamedir = "snes"

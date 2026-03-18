@@ -98,4 +98,4 @@ notes = "[1] higan Accuracy uses split ROMS for special chip games.|[*] Notable 
 
 description = "higan Accuracy is based on version 105 of the higan emulator suite's SNES/SFC emulator. It includes the demanding dot-based PPU (which is the hallmark of the 'accuracy' profile of this emulator lineage), though the only commercial game that is affected by this is the notorious Air Strike Patrol (A.S.P.). The up-to-date bsnes core is a better choice for most users who are seeking the highest accuracy and it should be quite a bit faster, too."
 
-gamedir = "super_nes"
+gamedir = "snes"

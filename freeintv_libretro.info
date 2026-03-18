@@ -29,4 +29,4 @@ notes = "(!) exec.bin (md5): 62e761035cb657903761800f4437b8af|(!) grom.bin (md5)
 
 description = "A libretro emulation core for the Mattel Intellivision computer (but not the Entertainment Computer System or Intellivoice). Many Intellivision games relied on controller overlays to provide context for the controls, and many of these can be found online for reference, including at https://arcadepunks.com/intellivision-controller-overlays."
 
-gamedir = "intellivision"
+gamedir = "int"

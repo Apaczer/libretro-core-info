@@ -38,4 +38,4 @@ notes = "Suggested md5sum:|1e4fb124a3a886865acb574f388c803d = bios.min"
 
 description = "A port of the homebrew PokeMini emulator, which emulates the Pokemon-Mini handheld console, to libretro."
 
-gamedir = "pokemon_mini"
+gamedir = "pokemini"
