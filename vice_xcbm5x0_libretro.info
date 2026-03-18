@@ -30,3 +30,5 @@ disk_control = "true"
 is_experimental = "false"
 
 description = "The VICE xcbm5x0 emulator, isolated and ported to libretro. This core provides experimental emulation for the C510 model (also known as P500) of CBM-II, which is the 'little brother' of the C600/700 machines. It runs at roughly 1 MHz and use a VIC-II chip instead of the CRTC."
+
+gamedir = "commodore_cbm5x0"

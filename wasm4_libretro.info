@@ -33,3 +33,5 @@ firmware_count = 0
 notes = "(!) Homepage: https://wasm4.org"
 
 description = "WASM-4 is a low-level fantasy game console for building small games with WebAssembly. Game cartridges (ROMs) are small, self-contained .wasm files that can be built with any programming language that compiles to WebAssembly."
+
+gamedir = "wasm4"

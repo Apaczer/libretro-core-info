@@ -39,3 +39,5 @@ firmware1_path = "bioscv.rom"
 firmware1_opt = "true"
 
 description = "JollyCV is a multi-emulator supporting ColecoVision (including Super Game Module support), CreatiVision, and My Vision. JollyCV is fast, accurate, and highly portable."
+
+gamedir = "jollycv"

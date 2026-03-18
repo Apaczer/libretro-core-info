@@ -29,3 +29,5 @@ disk_control = "false"
 is_experimental = "false"
 
 description = "A port of the OpenLara free/open re-implementation of the engine used by the original Tomb Raider series (games 1 through 5 are planned to be supported eventually, though only the first game is fully playable at the time of this writing). The core is compatible with content available from the Steam/GOG release of Tomb Raider 1 (or from the PS1 release using jPSXdec to convert audio/video files), and it provides a number of graphical improvements over the regular game."
+
+gamedir = "openlara"

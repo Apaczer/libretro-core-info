@@ -31,3 +31,5 @@ disk_control = "false"
 is_experimental = "true"
 
 description = "An initial and long-out-of-date port of Near's bnes emulator to libretro. This core was based on Near's first foray into NES/Famicom emulation and was not kept up-to-date with later improvements, and, as such, it is broken in many ways. No one should use this core to actually play games and it is only here for historical and research purposes."
+
+gamedir = "nes"

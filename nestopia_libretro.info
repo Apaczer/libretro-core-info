@@ -37,3 +37,5 @@ firmware0_opt = "true"
 notes = "(!) disksys.rom (md5): ca30b50f880eb660a320674ed365ef7a|Press Retropad L1 to switch disk side."
 
 description = "The libretro port of Nestopia is based on the most up-to-date code from the Nestopia JG project, with overclocking added as an additional feature. This emulator is quite fast and extremely accurate, with very high compatibility. In general, this core is a good choice for most users on desktop and mobile platforms."
+
+gamedir = "nes"

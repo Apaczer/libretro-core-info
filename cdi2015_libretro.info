@@ -34,3 +34,5 @@ hw_render = "false"
 disk_control = "false"
 
 description = "Based on the MAME codebase's Philips CDi emulation circa 2015, 'CDi 2015' is compatible with CDi games in CHD format from any MAME set. This core is designed to make it very easy to load these games. Names are irrelevant, hash lists aren't needed, just put the BIOS (again, from any MAME set) into the system directory, then load the game."
+
+gamedir = "cdi2015"

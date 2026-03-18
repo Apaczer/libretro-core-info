@@ -79,3 +79,5 @@ firmware10_opt = "true"
 notes = "JOY2KEY buttons mapping: A=x B=z X=space Y=lctrl|L=backspace R=rshift SELECT=escape START=return|Keep 'end' key down when booting for machine options.|Many games need GDC set as 2.5Mhz there."
 
 description = "An emulator for NEC's PC-9801 (aka PC-98) personal computer platform, ported to libretro. This is the only choice for users wanting to play PC-98 games, as the meowPC98 and non-Kai NPKII cores are no longer in development and have been completely superseded by this core."
+
+gamedir = "pc_98"

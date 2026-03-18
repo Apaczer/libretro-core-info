@@ -25,3 +25,5 @@ firmware0_opt = "false"
 notes = "(!) lynxboot.img (md5): fcd403db69f54290b51035d82f835e7b"
 
 description = "An older fork of Mednafen's Atari Lynx core, which is itself a fork of the Handy emulator. While this core works fine, many users will be better served by using the regular Handy core."
+
+gamedir = "atari_lynx"

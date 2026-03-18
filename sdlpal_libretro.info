@@ -25,3 +25,5 @@ disk_control = "false"
 
 
 description = "Libretro port of the classic Chinese-language RPG known as PAL."
+
+gamedir = "sdlpal"

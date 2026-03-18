@@ -16,3 +16,5 @@ hw_render = "true"
 required_hw_api = "OpenGL Core >= 3.3"
 
 description = "A port of the powerful audio/video encoding/decoding library FFmpeg to libretro. This core allows playback of a variety of audio and video formats, with a fancy audio visualizer and the ability to do interframe blending for smoother scrolling of non-native framerates."
+
+gamedir = "movie"

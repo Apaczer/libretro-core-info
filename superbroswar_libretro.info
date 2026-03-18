@@ -22,3 +22,5 @@ disk_control = "false"
 is_experimental = "false"
 
 description = "A fan-made multiplayer style deathmatch game."
+
+gamedir = "superbroswar"

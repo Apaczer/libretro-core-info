@@ -18,3 +18,5 @@ supports_no_game = "false"
 database = "Commodore - 64"
 savestate = "false"
 is_experimental = "true"
+
+gamedir = "commodore_64"

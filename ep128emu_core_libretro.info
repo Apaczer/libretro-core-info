@@ -168,3 +168,5 @@ is_experimental = "false"
 
 # Descriptive text, useful for tooltips, etc.
 description = "Emulate the Z80 based home computers that the original ep128emu supports - that is, Enterprise 64/128, Videoton TVC, Amstrad CPC and ZX Spectrum. Focus is on Enterprise and TVC."
+
+gamedir = "ep128"

@@ -17,3 +17,5 @@ supports_no_game = "false"
 is_experimental = "true"
 
 description = "An experimental media player ported to libretro. This core is similar in function to the ffmpeg-libretro core but using the powerful and modern MPV backend instead. Most users will be better-served by the ffmpeg core, but this one may yield a better user experience with improved controls and capabilities."
+
+gamedir = "movie"

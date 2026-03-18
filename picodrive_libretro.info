@@ -43,3 +43,5 @@ firmware2_opt = "true"
 notes = "(!) bios_CD_U.bin (md5): 2efd74e3232ff260e371b99f84024f7f|(!) bios_CD_E.bin (md5): e66fa1dc5820d254611fdcdba0662372|(!) bios_CD_J.bin (md5): 278a9397d192149e84e820ac621a8edd"
 
 description = "A fast and portable emulator for many Sega game consoles, ported to libretro. This core is notable for being the only open source emulator to support the 32X add-on. It also has very stable savestates, making it a good choice for features that require them. However, this core has lower accuracy than Genesis Plus GX and BlastEm, so users seeking the highest accuracy on reasonably-powered devices should use those cores instead."
+
+gamedir = "mega_drive"

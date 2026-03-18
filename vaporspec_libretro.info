@@ -26,3 +26,5 @@ needs_fullpath = "false"
 disk_control = "false"
 
 description = "A virtual game platform with capabilities similar to 80s game consoles."
+
+gamedir = "vaporspec"

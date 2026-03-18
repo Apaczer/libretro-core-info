@@ -103,3 +103,5 @@ is_experimental = "false"
 
 # Descriptive text, useful for tooltips, etc.
 description = "Plays PuzzleScript and PuzzleScript Plus games"
+
+gamedir = "puzzlescript"

@@ -42,3 +42,5 @@ firmware5_path = "kick40060.CD32.ext"
 firmware5_opt = "false"
 
 description = "An old fork of the uae4arm Amiga emulator, ported to libretro. This core is intended only for use on very weak, low-powered hardware and should only be used in cases where the P-UAE core is not available or cannot maintain full speed."
+
+gamedir = "commodore_amiga"

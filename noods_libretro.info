@@ -45,3 +45,5 @@ firmware4_opt = "true"
 notes = "(!) bios7.bin (md5): df692a80a5b1bc90728bc3dfc76cd948|(!) bios9.bin (md5): a392174eb3e572fed6447e956bde4b25|(!) gba_bios.bin (md5): a860e8c0b6d573d191e4ec7db1b1e4f6"
 
 description = "Unofficial libretro port of NooDS, the speedy DS emulator"
+
+gamedir = "nds"

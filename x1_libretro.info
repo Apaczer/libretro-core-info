@@ -31,3 +31,5 @@ firmware1_opt = "true"
 notes = "(!) xmil/IPLROM.X1 (md5): eeeea1cd29c6e0e8b094790ae969bfa7|(!) xmil/IPLROM.X1T (md5): 851e4a5936f17d13f8c39a980cf00d77"
 
 description = "A port of the X Millennium Sharp X1 emulator to libretro. IPLROM BIOS images are expected in a subdirectory of 'system' named 'xmil'. Opening disk images from the GUI does not currently work."
+
+gamedir = "sharp_x1"

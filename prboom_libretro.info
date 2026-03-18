@@ -31,3 +31,5 @@ is_experimental = "false"
 notes = "(!) PrBoom requires data ROM 'prboom.wad' inside the ROM directory.|(!) Load Content 'doom1.wad'."
 
 description = "A port of the PrBoom source port of iD's classic Doom engine, which plays Doom, Doom II, Final Doom and many other Doom IWAD mods, to libretro. This core supports running at higher-than-original framerates including 120 fps and up."
+
+gamedir = "doom"

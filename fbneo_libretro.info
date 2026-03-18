@@ -104,3 +104,5 @@ firmware22_opt = "true"
 notes = "(!) The BIOS files can also be inside the ROM directory or the root of SYSTEM directory.|(!) Homepage : https://neo-source.com/"
 
 description = "Based on the latest up-to-date source, 'FinalBurn Neo' is compatible with FinalBurn Neo latest ROM sets. This core should be the first choice for most users who want to run arcade games via libretro. MAME runs more games, so if FBN is incompatible with a game, those are the next ones to try. The FBA2012 cores should only be used if a device cannot run FBN at full speed. Formerly known as 'FB Alpha'."
+
+gamedir = "fb_alpha"

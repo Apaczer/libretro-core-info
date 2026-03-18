@@ -28,3 +28,5 @@ firmware0_opt = "false"
 notes = "(!) MacII.ROM (md5): 66223be1497460f1e60885eeb35e03cc"
 
 description = "MacII variant of minivmac emulator"
+
+gamedir = "mac68k"

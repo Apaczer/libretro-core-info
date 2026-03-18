@@ -18,3 +18,5 @@ supports_no_game = "false"
 database = "Nintendo - Virtual Boy"
 
 description = "A port of Mednafen's Virtual Boy emulation core to libretro. This core supports a variety of different 3D display methods for use with anaglyph glasses, head-mounted displays and 3D monitors."
+
+gamedir = "virtual_boy"

@@ -47,3 +47,5 @@ firmware3_opt = "true"
 notes = "(!) saturn_bios.bin (md5): af5828fdff51384f99b3c4926be27762|(!) stvbios.zip|(!) mpr-18811-mx.ic1 (md5): 255113ba943c92a54facd25a10fd780c|(!) mpr-19367-mx.ic1 (md5): 1cd19988d1d72a3e7caa0b73234c96b4"
 
 description = "A port of the Kronos Saturn emulator, which is itself a port of the Yabause emulator, to libretro. This core supports many modern, fancy features, such as internal resolution increases, though these features come with relatively steep GPU requirements, making this core incompatible with very old, weak or mobile hardware. While not as accurate as Beetle-Saturn, this core's relative speed and eye-candy features make it a good first choice for many users, while those interested in accuracy first-and-foremost should stick with Beetle-Saturn and those on mobile devices should try Yaba Sanshiro (another Yabause fork focused on mobile) instead."
+
+gamedir = "sega_saturn"

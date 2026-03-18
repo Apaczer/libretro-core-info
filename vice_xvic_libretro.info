@@ -30,3 +30,5 @@ disk_control = "true"
 is_experimental = "false"
 
 description = "The VICE VIC-20 emulator, isolated and ported to libretro. This core emulates all of the internal hardware, including the VIA chips. The VIC-I video chip is fully emulated except for NTSC interlace mode."
+
+gamedir = "commodore_vic20"

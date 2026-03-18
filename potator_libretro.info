@@ -18,3 +18,5 @@ supports_no_game = "false"
 database = "Watara - Supervision"
 savestate = "true"
 savestate_features = "deterministic"
+
+gamedir = "supervision"

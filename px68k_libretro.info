@@ -42,3 +42,5 @@ firmware2_opt = "true"
 notes = "[i] Place BIOS files in system/keropi folder.|[i] F12 or Retropad L2 for Emulator Menu.|[i] Define your disks path in system/keropi/config StartDir line."
 
 description = "A port of the Portable Sharp X68000 Emulator to libretro. The core can launch games directly or can be launched with no content and then use the built-in OSD menu via retropad-L2 or F12 key."
+
+gamedir = "sharp_x68000"

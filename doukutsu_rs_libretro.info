@@ -30,3 +30,5 @@ is_experimental = "false"
 notes = "(!) drs requires data ROM 'Cave Story (en).zip'.|(!) Load Content 'Doukutsu.exe', Also works with all other ports of CS"
 
 description = "An open-source reimplementation of the Cave Story / Doukutsu engine, ported to libretro. This core requires users to load the freeware Doukutsu.exe as content so the core can access the game assets stored inside."
+
+gamedir = "doukutsu-rs"
